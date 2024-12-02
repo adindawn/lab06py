@@ -242,4 +242,7 @@ Berikut hasil dan code dari program tersebut
 
 
 
+Berikut flowchartnya 
+
+  ![flowchart06](https://github.com/user-attachments/assets/4ca5dbab-5c07-48b6-85fe-26b092b0bff2)
 
